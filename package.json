@@ -1,0 +1,23 @@
+{
+  "name": "lwt",
+  "version": "1.0.0",
+  "description": "test git",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liuweiting/vue-test.git"
+  },
+  "keywords": [
+    "git",
+    "node"
+  ],
+  "author": "lwt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuweiting/vue-test/issues"
+  },
+  "homepage": "https://github.com/liuweiting/vue-test#readme"
+}
